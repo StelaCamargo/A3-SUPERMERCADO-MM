@@ -162,12 +162,13 @@ java -cp bin Main
 ---
 
 ## 👥 Integrantes do Grupo
-| Nome                       | |    RA     |
-| Amanda Araujo de Almeida - 82614684|
-| Anna Clara da Silva - 826126539|
-| Leticia Salinas - 8261109906|
-| Stela de Camargo dos Santos - 8261110656|
-| Vinícius Brandão Ambrosio - 826184010|
+| Nome                       |    RA     |
+|---|---|
+| Amanda Araujo de Almeida  |82614684|
+| Anna Clara da Silva  |826126539|
+| Leticia Salinas  |8261109906|
+| Stela de Camargo dos Santos  |8261110656|
+| Vinícius Brandão Ambrosio  |826184010|
 
 
 ---
