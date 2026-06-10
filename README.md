@@ -1,4 +1,6 @@
 # A3-SUPERMERCADO-MM
+<img width="1535" height="1024" alt="WhatsApp Image 2026-06-09 at 21 08 26" src="https://github.com/user-attachments/assets/a4490545-103a-480f-beea-40f43072170c" />
+
 
 # 🛒 Sistema de Mini Mercado — Projeto A3
 
