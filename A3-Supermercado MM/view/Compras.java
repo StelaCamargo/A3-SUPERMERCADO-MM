@@ -45,9 +45,9 @@ public class Compras {
         // 3. Exibir recibo e confirmar
         exibirRecibo(cliente, carrinho);
 
-        System.out.print("\nConfirmar compra? (S/N): ");
+        System.out.print("\nConfirmar compra? (Sim/Não): ");
         String confirmacao = leitor.nextLine().trim().toUpperCase();
-        if (!confirmacao.equals("S")) {
+        if (!confirmacao.equals("SIM") && !confirmacao.equals("S") ) {
             System.out.println("\nCompra cancelada.");
             pausar();
             return;
@@ -63,7 +63,7 @@ public class Compras {
     // Passo 1 — Identificar cliente (cadastrado ou anônimo)
     // ─────────────────────────────────────────────────────────────
     private Cliente identificarCliente() {
-        System.out.print("\nVocê é um cliente cadastrado? (S/N): ");
+        System.out.print("\nVocê é um cliente cadastrado? (Sim/Não): ");
         String resposta = leitor.nextLine().trim().toUpperCase();
 
         if (resposta.equals("S")) {
