@@ -179,4 +179,4 @@ java -cp bin Main
 
 - O sistema funciona **exclusivamente no terminal**, sem interface gráfica.
 - **Não utiliza banco de dados** — toda persistência é feita em arquivos CSV.
-- Possui tratamento de erros e validações de entrada de dados.
+- Possui tratamento de erros e validações de entrada de dados. 💕
